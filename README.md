@@ -5,7 +5,6 @@ This is a simple and responsive Digital Clock application built using HTML, CSS,
 ## Features
 
 - **Real-Time Clock**: Displays hours, minutes, and seconds in real-time.
-- **AM/PM Format**: Shows time in 12-hour format with AM/PM indicator.
 - **Responsive Design**: Works seamlessly on desktop and mobile devices.
 - **Customizable**: Easily style or extend the clock according to your needs.
 
@@ -29,8 +28,8 @@ https://dapper-treacle-9ae4b4.netlify.app/
 ### Installation
 
 1. Clone the repository:
-   ```bash
-  https://github.com/pushpakchopadekar/Digital-Clock.git
+   ```bash   https://github.com/pushpakchopadekar/Digital-Clock.gits
+
    ```
 
 2. Navigate to the project folder:
