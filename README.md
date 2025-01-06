@@ -28,8 +28,8 @@ https://dapper-treacle-9ae4b4.netlify.app/
 ### Installation
 
 1. Clone the repository:
-   ```bash   https://github.com/pushpakchopadekar/Digital-Clock.gits
-
+   ```bash   
+https://github.com/pushpakchopadekar/Digital-Clock.gits
    ```
 
 2. Navigate to the project folder:
