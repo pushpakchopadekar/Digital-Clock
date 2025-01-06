@@ -26,7 +26,7 @@ This is a simple and responsive Digital Clock application built using HTML, CSS,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+  https://github.com/pushpakchopadekar/Digital-Clock.git
    ```
 
 2. Navigate to the project folder:
