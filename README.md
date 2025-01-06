@@ -15,6 +15,10 @@ This is a simple and responsive Digital Clock application built using HTML, CSS,
 - **CSS**: For styling and layout.
 - **JavaScript**: For dynamic time updates.
 
+## Preview
+
+https://dapper-treacle-9ae4b4.netlify.app/
+
 ## Getting Started
 
 ### Prerequisites
